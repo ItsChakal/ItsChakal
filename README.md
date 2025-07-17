@@ -52,8 +52,7 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://discord.gg/supremacyrecovery">
-  <img width="49.5%" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg?w=890"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=just-chakal&theme=gruvbox&hide_border=true" />
+  <img width="25%" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg?w=890"/>
   </a>
 </p>
 <br>

@@ -55,7 +55,7 @@ if __name__ == '__main__':
   <img height="80px" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg"/>
   </a>
   <a href="https://supremacyrecovery.com">
-  <img height="80px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"/>
+  <img height="80px" src="https://supremacyrecovery.com/Banner%20longue.png"/>
   </a>
 </p>
 <br>

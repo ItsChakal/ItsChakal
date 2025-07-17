@@ -52,7 +52,7 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://discord.gg/supremacyrecovery">
-  <img height="80px" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg"/>
+  <img height="80px" src="https://supremacyrecovery.com/Supremacy.png"/>
   </a>
   <a href="https://supremacyrecovery.com">
   <img height="80px" src="https://supremacyrecovery.com/Banner%20longue.png"/>

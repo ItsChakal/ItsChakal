@@ -2,7 +2,7 @@
   <b>Chakal</b>
 </h1>
 
-Hi! I'm Chakal, a student currently living in France. I'm 20yo and I'm a UI Designer.
+Hi! I'm Chakal, a 21yo UI/UX Designer.
 
 <br>
 

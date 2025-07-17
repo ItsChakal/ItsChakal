@@ -52,10 +52,10 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://discord.gg/supremacyrecovery">
-  <img width="15%" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg"/>
+  <img height="80px" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg"/>
   </a>
   <a href="https://supremacyrecovery.com">
-  <img width="15%" src="https://www.pngfind.com/pngs/m/433-4333068_website-icon-png-white-internet-transparent-png.png"/>
+  <img height="80px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"/>
   </a>
 </p>
 <br>

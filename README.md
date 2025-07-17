@@ -47,12 +47,15 @@ if __name__ == '__main__':
 </div>
 -->
 
-## My Statistics
+## My Links
 
 <br/>
 <p align="left">
   <a href="https://discord.gg/supremacyrecovery">
-  <img width="25%" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg?w=890"/>
+  <img width="15%" src="https://static-www.adweek.com/wp-content/uploads/2021/07/DiscordLogo.jpg"/>
+  </a>
+  <a href="https://supremacyrecovery.com">
+  <img width="15%" src="https://www.pngfind.com/pngs/m/433-4333068_website-icon-png-white-internet-transparent-png.png"/>
   </a>
 </p>
 <br>

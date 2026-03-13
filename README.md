@@ -81,7 +81,6 @@ class Chakal:
         self.location = "United States"
         self.website = "https://supremacyrp.fr"
         self.discord = "ItsChakal"
-        self.languages = ["Lua", "JavaScript", "Python", "TypeScript"]
         self.focus = "UI/UX • Clean code"
 
     def __str__(self):

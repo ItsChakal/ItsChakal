@@ -39,16 +39,16 @@ if __name__ == '__main__':
 <br/>
 <ul align="left">
   <li>
-  <a href="https://discord.gg/supremacyrp">
+  <a href="https://discord.gg/supremacyrp">Discord SupremacyRP
   </a></li>
   <li>
-  <a href="https://supremacyrp">
+  <a href="https://supremacyrp">WebSite SupremacyRP
   </a></li>
   <li>
-    <a href="https://supremacyrecovery.com">
+    <a href="https://discord.gg/supremacy">Discord Supremacy
   </a></li>
-<li>
-    <a href="https://discord.gg/supremacy">
+  <li>
+    <a href="https://supremacyrecovery.com">WebSite SupremacyRecovery
   </a></li>
 </ul>
 <br>

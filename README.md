@@ -2,7 +2,7 @@
   <b>Chakal</b>
 </h1>
 
-Hi! I'm Chakal, a 21yo UI/UX Designer.
+Hi! I'm Chakal, a 22yo UI/UX Enjoyer & Lua/JS/Py/TS Dev.
 
 <br>
 
@@ -24,7 +24,7 @@ class Chakal():
     self.name = "Andy";
     self.username = "Chakal";
     self.location = "United States";
-    self.website = "https://supremacyrecovery.com";
+    self.website = "https://supremacyrp.fr";
     self.discord = "itschakal";
   
   def __str__(self):
@@ -51,11 +51,13 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://discord.gg/supremacyrecovery">
-  <img height="80px" src="https://supremacyrecovery.com/Supremacy.png"/>
+  <a href="https://discord.gg/supremacyrp">
   </a>
-  <a href="https://supremacyrecovery.com">
-  <img height="80px" src="https://supremacyrecovery.com/Banner%20longue.png"/>
+  <a href="https://supremacyrp">
+  </a>
+    <a href="https://supremacyrecovery.com">
+  </a>
+    <a href="https://discord.gg/supremacy">
   </a>
 </p>
 <br>

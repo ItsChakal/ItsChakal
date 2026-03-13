@@ -125,6 +125,6 @@ if __name__ == "__main__":
 
 *"Code is poetry. Ship it."*
 
-**Credit:** [github.com/ItsChakal](https://github.com/ItsChakal)
+**Credit:** [My guns.lol](https://guns.lol/Chakal)
 
 </div>

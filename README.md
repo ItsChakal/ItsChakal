@@ -34,23 +34,10 @@ if __name__ == '__main__':
     me = Chakal()
 ```
 
-
-
-
-
-   [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595&nd=1)
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Links
 
 <br/>
-<p align="left">
+<div align="left">
   <a href="https://discord.gg/supremacyrp">
   </a>
   <a href="https://supremacyrp">
@@ -59,7 +46,7 @@ if __name__ == '__main__':
   </a>
     <a href="https://discord.gg/supremacy">
   </a>
-</p>
+</div>
 <br>
 
 ------

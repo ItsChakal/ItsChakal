@@ -48,8 +48,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsChakal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=98b982)](https://github.com/ItsChakal)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItsChakal&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ItsChakal)
-
 </div>
 
 ---
@@ -99,7 +97,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ItsChakal)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/737332877401915533ItsChakal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsChakal)
 
 </div>
@@ -107,8 +105,6 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-
-![Snake animation](https://github.com/ItsChakal/ItsChakal/blob/output/github-contribution-grid-snake.svg)
 
 *"Code is poetry. Ship it."*
 

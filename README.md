@@ -37,16 +37,20 @@ if __name__ == '__main__':
 ## My Links
 
 <br/>
-<div align="left">
+<ul align="left">
+  <li>
   <a href="https://discord.gg/supremacyrp">
-  </a>
+  </a></li>
+  <li>
   <a href="https://supremacyrp">
-  </a>
+  </a></li>
+  <li>
     <a href="https://supremacyrecovery.com">
-  </a>
+  </a></li>
+<li>
     <a href="https://discord.gg/supremacy">
-  </a>
-</div>
+  </a></li>
+</ul>
 <br>
 
 ------

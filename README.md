@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ItsChakal&style=for-the-badge&color=98b982)](https://github.com/ItsChakal)
 [![WakaTime](https://wakatime.com/badge/user/5f5b6129-4bae-4b24-a1ae-61a35b02a21d.svg?style=for-the-badge)](https://wakatime.com/@ItsChakal)
-[![Discord Bots](https://top.gg/api/widget/1215070970013032478.svg)](https://top.gg/bot/1215070970013032478)
+[![Discord Bots](https://top.gg/api/widget/upvotes/1215070970013032478.svg)](https://top.gg//bot/1215070970013032478)
 
 </div>
 

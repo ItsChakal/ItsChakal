@@ -62,10 +62,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsChakal&theme=dark&hide_border=true&background=0D1117&stroke=98b982&ring=98b982&fire=98b982&currStreakLabel=98b982)](https://github.com/ItsChakal)
 
-[![Chakal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsChakal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=98b982&icon_color=98b982)](https://github.com/ItsChakal)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsChakal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=98b982)](https://github.com/ItsChakal)
-
 </div>
 
 ---

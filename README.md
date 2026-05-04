@@ -100,7 +100,7 @@ if __name__ == "__main__":
 | 🌐 **SupremacyRP** | [supremacyrp.fr](https://supremacyrp.fr) |
 | 🔧 **Supremacy Recovery** | [supremacyrecovery.com](https://supremacyrecovery.com) |
 | 💬 **Discord SupremacyRP** | [discord.gg/supremacyrp](https://discord.gg/supremacyrp) |
-| 👥 **Discord Supremacy (13.4K)** | [discord.gg/supremacy](https://discord.gg/supremacy) |
+| 👥 **Discord Supremacy (14K+)** | [discord.gg/supremacy](https://discord.gg/supremacy) |
 
 **Discord:** `ItsChakal`
 
